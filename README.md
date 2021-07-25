@@ -1,40 +1,16 @@
-# 2021-defi-crossPlatform
-2021 TAEBIT De-Fi Hackathon team NEC (cross platform Application with Dart)
+# taebithackathon2021
 
+A new Flutter project.
 
-## 🛒 Noisy Empty Carts (NEC) 🛒
-### 2021 Defi Online Hackathon
+## Getting Started
 
-* Hackcthon Introduction
+This project is a starting point for a Flutter application.
 
-  (EN) http://taebit.com/hackathon 
+A few resources to get you started if this is your first Flutter project:
 
-  (KR) https://www.notion.so/DeFi-bf6621b59ddc425897714a1c9423e9ca
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-* Hackathon Tutorial
-
-  https://taebit.gitbook.io/taebit-global-defi-hackathon/
-  
-  
-## 🤩 Let me introduce
-Hello! We are undergraduate students who are interested in blockchain in Korea. 
-We are interested in blockchain application technologies such as de-fi.
-We are still lacking, but I'm honored to have the opportunity to implement it myself!
-We are composed of front end and back end.
-
-| Name 	| Position 	| Role 	| comment | major |
-|------	|----------	|------	|---------	|---	|
-| Jimin Kim |  Front-end dev(Java) 	| (Android) Coin send&receive, Wallet main, dashboard	| @mimm | Korean Language&Literature, Software	|
-| Juwon Lee | Front-end dev(Flutter(Dart))	| (Cross Platform App) Wallet App | @2-zoo1 | Library and Information Science, Computer Cyber Security |
-| Chaerin Kim | Back-end dev(Java)	| Coin send&receive, smart contract, market price status |         	| Computer Science Engineering |
-| Hanhui Kim | Back-end dev(Java) | Login	|         	| Mathematics, Statistics |
-| Hyejin Ahn	| Front-end dev(Java) 	| (Android) login, pincode authentication	|         	| Cyber Security |
-
-
-
-## 🔍 Development Topic
-We are trying to develop a cryptocurrency multi-chain wallet using the service provided by TAEBIT based on JAVA, Dart(Flutter) and Solidity. Considering various factors such as Gas, Private Key, we will produce a user-friendly Android/cross platform app.
-
-
-## 🎨 Prototype(With Figma)
-https://www.figma.com/file/4VVxSNByaq9H1vKdQLSWDe/De-Fi?node-id=0%3A1
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

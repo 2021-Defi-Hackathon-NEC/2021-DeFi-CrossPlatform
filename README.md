@@ -15,6 +15,7 @@
 
   https://taebit.gitbook.io/taebit-global-defi-hackathon/
   
+  
 ## 🤩 Let me introduce
 Hello! We are undergraduate students who are interested in blockchain in Korea. 
 We are interested in blockchain application technologies such as de-fi.
@@ -30,8 +31,10 @@ We are composed of front end and back end.
 | Hyejin Ahn	| Front-end dev(Java) 	| (Android) login, pincode authentication	|         	| Cyber Security |
 
 
+
 ## 🔍 Development Topic
 We are trying to develop a cryptocurrency multi-chain wallet using the service provided by TAEBIT based on JAVA, Dart(Flutter) and Solidity. Considering various factors such as Gas, Private Key, we will produce a user-friendly Android/IOS app.
+
 
 ## 🎨 Prototype(With Figma)
 https://www.figma.com/file/4VVxSNByaq9H1vKdQLSWDe/De-Fi?node-id=0%3A1

@@ -1,4 +1,4 @@
-# 2021-Defi-crossPlatform
+# 2021-Defi-crossPlatform UI
 ## 🛒 Noisy Empty Carts (NEC) 🛒
 ### 2021 Defi Online Hackathon
 
@@ -36,3 +36,5 @@ Especially, this repository is developed by Dart (Flutter).
 ## 🎨 Prototype(With Figma)
 https://www.figma.com/file/4VVxSNByaq9H1vKdQLSWDe/De-Fi?node-id=0%3A1
 
+## Android Version
+https://github.com/2021-Defi-Hackathon-NEC/2021-Defi

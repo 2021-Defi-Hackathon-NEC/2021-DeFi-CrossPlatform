@@ -1,16 +1,38 @@
-# taebithackathon2021
+# 2021-Defi-crossPlatform
+## 🛒 Noisy Empty Carts (NEC) 🛒
+### 2021 Defi Online Hackathon
 
-A new Flutter project.
+* Hackcthon Introduction
 
-## Getting Started
+  (EN) http://taebit.com/hackathon 
 
-This project is a starting point for a Flutter application.
+  (KR) https://www.notion.so/DeFi-bf6621b59ddc425897714a1c9423e9ca
 
-A few resources to get you started if this is your first Flutter project:
+* Hackathon Tutorial
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  https://taebit.gitbook.io/taebit-global-defi-hackathon/
+  
+## 🤩 Let me introduce
+Hello! We are undergraduate students who are interested in blockchain in Korea. 
+We are interested in blockchain application technologies such as de-fi.
+We are still lacking, but We're honored to have the opportunity to implement it ourselves!
+We are composed of front-end dev and back-end dev.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Name 	| Position 	| Role 	| Discord Nickname | Major |
+|------	|----------	|------	|---------	|---	|
+| Jimin Kim |  Front-end dev(Java) 	| (Android) Coin send&receive, Wallet main, dashboard	| @mimm | Korean Language and Literature, Software	|
+| Juwon Lee | Front-end dev(Flutter(Dart))	| (Cross Platform App) Wallet App | @2-zoo1 | Library and Information Science, Computer Cyber Security |
+| Chaerin Kim | Back-end dev(Java)	| (Android) Coin send&receive, smart contract, market price status | @Chaerin Kim  	| Computer Science and Engineering |
+| Hanhui Kim | Back-end dev(Java) | (Android) Login, QR	| @한희	| Mathematics, Statistics |
+| Hyejin Ahn	| Front-end dev(Java) 	| (Android) login, pincode, recommendation	| @geniee44 	| Cyber Security, Economy |
+
+
+## 🔍 Development Topic
+We are trying to develop a cryptocurrency multi-chain wallet using the service provided by TAEBIT based on JAVA, Dart(Flutter) and Solidity. Considering various factors such as Gas, Private Key, we will produce a user-friendly Android/IOS app.
+
+Especially, this repository is developed by Dart (Flutter).
+
+
+## 🎨 Prototype(With Figma)
+https://www.figma.com/file/4VVxSNByaq9H1vKdQLSWDe/De-Fi?node-id=0%3A1
+

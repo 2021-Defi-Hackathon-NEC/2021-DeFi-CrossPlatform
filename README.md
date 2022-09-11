@@ -1,4 +1,4 @@
-# 2021-Defi-crossPlatform UI
+# 2021-DeFi-CrossPlatform UI
 ## 🛒 Noisy Empty Carts (NEC) 🛒
 ### 2021 Defi Online Hackathon
 
